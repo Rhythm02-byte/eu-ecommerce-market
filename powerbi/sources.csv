@@ -1,0 +1,6 @@
+dataset,url,accessed
+isoc_ec_esels,https://ec.europa.eu/eurostat/databrowser/view/isoc_ec_esels/default/table,2026-11-02
+isoc_ec_evals,https://ec.europa.eu/eurostat/databrowser/view/isoc_ec_evals/default/table,2026-11-02
+isoc_ec_ib20,https://ec.europa.eu/eurostat/databrowser/view/isoc_ec_ib20/default/table,2026-11-02
+isoc_ec_ibos,https://ec.europa.eu/eurostat/databrowser/view/isoc_ec_ibos/default/table,2026-11-02
+isoc_ec_ibuy,https://ec.europa.eu/eurostat/databrowser/view/isoc_ec_ibuy/default/table,2026-11-02

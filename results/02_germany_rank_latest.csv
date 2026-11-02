@@ -1,0 +1,10 @@
+series_key,year,germany,germany_rank,countries_with_data,top_country,top_value
+ent_esales,2025,23.11,17,27,Lithuania,43.03
+ent_eturnover,2025,19.05,12,27,Ireland,38.25
+ent_websales_other_eu,2025,8.98,7,19,Austria,16.47
+ent_websales_world,2025,4.91,12,19,Greece,10.29
+ind_bought_12m,2025,81.38,7,27,Ireland,95.05
+ind_buy_foreign,2023,25.00,25,27,Cyprus,87.88
+ind_buy_national,2023,79.03,20,27,Romania,95.81
+ind_buy_non_eu,2023,11.64,25,27,Malta,54.23
+ind_buy_other_eu,2023,20.25,25,27,Cyprus,80.75

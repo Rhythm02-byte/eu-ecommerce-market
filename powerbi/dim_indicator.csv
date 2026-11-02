@@ -1,0 +1,10 @@
+series_key,label,side,unit,datasets
+ent_esales,Enterprises with e-commerce sales,business,% of enterprises,isoc_ec_esels
+ent_eturnover,E-commerce sales as a share of enterprise turnover,business,% of turnover,isoc_ec_evals
+ent_websales_other_eu,Enterprises with web sales to other EU countries,business,% of enterprises,isoc_ec_esels
+ent_websales_world,Enterprises with web sales to the rest of the world,business,% of enterprises,isoc_ec_esels
+ind_bought_12m,Individuals who bought online in the last 12 months,consumer,% of individuals,"isoc_ec_ibuy, isoc_ec_ib20"
+ind_buy_national,Online shoppers buying from national sellers,consumer,% of online shoppers (last 3 months),isoc_ec_ibos
+ind_buy_foreign,Online shoppers buying from any foreign seller (EU or non-EU),consumer,% of online shoppers (last 3 months),isoc_ec_ibos
+ind_buy_other_eu,Online shoppers buying from sellers in other EU countries,consumer,% of online shoppers (last 3 months),isoc_ec_ibos
+ind_buy_non_eu,Online shoppers buying from sellers outside the EU,consumer,% of online shoppers (last 3 months),isoc_ec_ibos
